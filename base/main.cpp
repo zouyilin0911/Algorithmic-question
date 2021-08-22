@@ -1,8 +1,7 @@
 
 
 #include <iostream>
-#include <iostream>
-#include "code/three_sum.hpp"
+#include "./code/three_sum.hpp"
 
 using namespace std;
 
