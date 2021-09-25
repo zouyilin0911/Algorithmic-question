@@ -1,13 +1,18 @@
 
 
 #include <iostream>
-#include "./code/three_sum.hpp"
+#include "./code/base.hpp"
 
 using namespace std;
 
 int main()
 {
-    testThreeSum();
+    //    testThreeSum();
+    // testSetZeroes();
+
+    //testStact2queue();
+    testMinStack();
+
     cout << "HelloWorld!" << endl;
     return 0;
 }
